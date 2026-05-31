@@ -1,0 +1,102 @@
+body {
+    background-color: #3B2E84;
+    font-family: sans-serif;
+    color: #FFF500;
+}
+
+header {
+    background-color: #180773;
+    padding: 15px;
+}
+
+.info {
+    background-color: #4A3D94;
+    border-radius: 50px;
+    padding: 30px;
+    font-size: 24px;
+}
+
+h2 {
+    text-align: center;
+    background-color: #180773;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    border-radius: 50px;
+   
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+footer {
+    font-size: 20px;
+    background-color: #180773;
+    padding: 15px;
+    border-radius: 40px;
+}
+
+.link-header {
+    background-color: #3B2E84;
+    color: #F7F379;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 6px;
+}
+.link-header2 {
+    background-color: #3B2E84;
+    color: #F7F379;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 4px;
+}
+
+.brbr {
+    width: 200px;
+    height: 120px;
+}
+
+.star1{
+    width: ;
+    height: ;
+
+    position: relative;
+    left: 800px;
+    bottom: 50px;
+
+}
+
+.star1{
+    width: ;
+    height: ;
+
+    position: relative;
+    left: 800px;
+    bottom: 50px;
+}
+
+.star2{
+    width: ;
+    height: ;
+
+    position: relative;
+    left: 350px;
+    bottom: 10px;
+}
+
+.star3{
+    width: ;
+    height: ;
+
+    position: relative;
+    right: 100px;
+    bottom: 40px;
+}
+
+.link-header:hover {
+    background-color: #5142a3;
+
+}
